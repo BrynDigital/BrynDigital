@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, React, GoLang**
+- 🌱 I’m currently learning **Python, C, JavaScript/TypeScript
 
 
 - ⚡ Fun fact **French Fries might be the greatest invention of all time!**
